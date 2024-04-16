@@ -1,0 +1,7 @@
+{
+  "name": "splashAndHardwareBack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
